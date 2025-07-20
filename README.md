@@ -8,3 +8,6 @@ The backend is structured with a modular, multi-threaded architecture in Python,
 Additional utilities include VWAP calculation, latency analysis, and volume imbalance detection, offering deeper insights into trade efficiency and market behavior.
 
 The project is packaged with Docker and managed via Poetry or pip, making it portable, reproducible, and easy to deploy in production environments or on the cloud.
+
+So it was a task given to me by a firm name Qoquant when i had applied to them for internship where i had to create using websockets.It was first time when i used websockets in my projects.
+
